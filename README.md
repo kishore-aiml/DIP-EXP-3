@@ -107,7 +107,7 @@ plt.axis('off')
 ```
 hist_equalized = cv2.calcHist([equalized_image], [0], None, [256], [0, 256])
 ```
-## STEP-9
+## STEP-10
 ```
 plt.plot(hist_equalized, color='black')
 plt.title('Equalized Histogram')
@@ -117,19 +117,23 @@ plt.xlim([0, 256])
 ##  Output
 ### Grayscale Histogram Equalization
 - Original grayscale image is displayed
+<img width="237" height="397" alt="image" src="https://github.com/user-attachments/assets/8d36b518-115b-4a5c-9d90-2e61a969f2a5" />
 
 
 - Histogram of original grayscale image is plotted
+<img width="582" height="436" alt="image" src="https://github.com/user-attachments/assets/d27e4036-7113-4259-97fb-b6d66d45c026" />
 
 
 
 - Enhanced image after histogram equalization is displayed
+<img width="252" height="396" alt="image" src="https://github.com/user-attachments/assets/0d63eac2-b788-4a2d-88f3-e5c26414a623" />
 
 
 
 
 - Histogram of enhanced grayscale image shows improved contrast  
- 
+ <img width="587" height="432" alt="image" src="https://github.com/user-attachments/assets/a969afdc-2b2a-4c56-9cf2-dc29b3be1546" />
+
 
 
 
