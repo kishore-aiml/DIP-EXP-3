@@ -55,10 +55,8 @@ The program performs the following operations:
 ## Program
 
 ### Developed By:
-**Name:* A PRAVEEN KISHORE
-
-### Register No:
-212225220074
+### Name: KISHORE J
+### Register No: 212225240072
 
 ---
 ## STEP-1
